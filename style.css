@@ -24,7 +24,7 @@ body {
 /*-----------------  Styling Start  -----------------*/
 h1 {
   position: absolute;
-  font-size: 4rem;
+  font-size: 2rem;
   top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
